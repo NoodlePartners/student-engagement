@@ -11,14 +11,14 @@
 	<parent>
 		<groupId>org.sakaiproject.studentengagement</groupId>
 		<artifactId>studentengagement</artifactId>
-	    <version>12-SNAPSHOT</version>
+	    <version>11-SNAPSHOT</version>
 	</parent>
 
 	<dependencies>
 		<dependency>
 			<groupId>org.sakaiproject.studentengagement</groupId>
 			<artifactId>studentengagement-api</artifactId>
-			<version>12-SNAPSHOT</version>
+			<version>11-SNAPSHOT</version>
 			<scope>provided</scope>
 		</dependency>
 	    <dependency>

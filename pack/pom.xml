@@ -10,7 +10,7 @@
 	<parent>
 		<groupId>org.sakaiproject.studentengagement</groupId>
 		<artifactId>studentengagement</artifactId>
-	    <version>12-SNAPSHOT</version>
+	    <version>11-SNAPSHOT</version>
 	</parent>
 
 	<properties>
@@ -21,7 +21,7 @@
         <dependency>
             <groupId>org.sakaiproject.studentengagement</groupId>
             <artifactId>studentengagement-impl</artifactId>
-            <version>12-SNAPSHOT</version>
+            <version>11-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
